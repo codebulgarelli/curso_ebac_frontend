@@ -1,0 +1,78 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+  }
+  
+
+  .entretenimento {
+    background-color: orange; 
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+  .entretenimento h2 {
+    color: black;
+    text-transform: uppercase;
+  }
+  
+  .entretenimento article {
+    background-color: white;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 15px;
+  }
+  
+  .entretenimento h3 {
+    color: gray;
+  }
+  
+  .img-artigo {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+
+  .tecnologia {
+    background-color: blue; 
+    padding: 20px;
+    margin: 10px 0;
+  }
+  
+  .tecnologia h2 {
+    color: white;
+    text-transform: uppercase;
+  }
+  
+  .tecnologia article {
+    background-color: white;
+    border-radius: 8px;
+    margin: 10px 0;
+    padding: 15px;
+  }
+  
+  .tecnologia h3 {
+    color: black;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
